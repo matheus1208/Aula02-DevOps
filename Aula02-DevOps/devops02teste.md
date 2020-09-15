@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Nome : Matheus Correia
+RA : 1903600
